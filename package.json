@@ -1,0 +1,21 @@
+{
+  "name": "crazy-dong-plugin-delete-file",
+  "version": "1.0.0",
+  "description": "Deleting SD File",
+  "cordova": {
+	"id":"org.cordova.DeleteFilePlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "liujingdong",
+  "license": "ISC"
+}
